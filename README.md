@@ -2,7 +2,7 @@
 ThinkPHP 6 Addons Package
 
 ## 安装
-> composer require yunqico/yqaddons
+> composer require yunqico/yqaddons dev-master
 
 ## 配置
 
